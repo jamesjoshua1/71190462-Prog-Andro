@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/71190427-ProgAndro-main/Pertemuan7_71190427 rcy/app/src/main/res/layout/activity_detail.xml" value="0.209375" />
+        <entry key="..\:/71190427-ProgAndro-main/Pertemuan7_71190427 rcy/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/71190427-ProgAndro-main/Pertemuan7_71190427 rcy/app/src/main/res/layout/item_contact.xml" value="0.209375" />
+        <entry key="..\:/Kuliah/Praktikum Pemrograman Android/app/src/main/res/drawable/drTirta_background.xml" value="0.24074074074074073" />
+        <entry key="..\:/Kuliah/Praktikum Pemrograman Android/app/src/main/res/drawable/torontotirta_background.xml" value="0.14322916666666666" />
+        <entry key="..\:/Kuliah/Praktikum Pemrograman Android/app/src/main/res/drawable/torontotokyo_background.xml" value="0.14322916666666666" />
+        <entry key="..\:/Kuliah/Praktikum Pemrograman Android/app/src/main/res/layout/activity_detail.xml" value="0.33" />
+        <entry key="..\:/Kuliah/Praktikum Pemrograman Android/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Kuliah/Praktikum Pemrograman Android/app/src/main/res/layout/item_contack.xml" value="0.25" />
+        <entry key="..\:/Kuliah/Praktikum Pemrograman Android/app/src/main/res/layout/item_contact.xml" value="0.536" />
+        <entry key="..\:/Kuliah/Praktikum Pemrograman Android/app/src/main/res/mipmap-anydpi-v26/drTirta.xml" value="0.14322916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.536" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
